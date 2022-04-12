@@ -1,7 +1,7 @@
-- Olá, meu nome é Rafael
-- Sou professor do Colégio Estadual Jayme Canet - Bela Vista do Paraíso
-- Leciono a disciplina de Pensamento Computacional
-- 1 Ano A 
+- Olá, meu nome é Rafael Assumpção.
+- Sou professor do Colégio Estadual Jayme Canet - Bela Vista do Paraíso.
+- Leciono a disciplina de Pensamento Computacional.
+- 1 Ano A & B.
 
 <!---
 professorrafael1/professorrafael1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
