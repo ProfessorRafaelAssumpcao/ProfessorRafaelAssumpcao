@@ -2,7 +2,7 @@
 - e-mail: **rafael.assumpcao@escola.pr.gov.br**
 - Licenciado em Filosofia pela Universidade Estadual de Londrina.
 - Sou professor do Colégio Estadual Jayme Canet, em Bela Vista do Paraíso - PR.
-- Leciono a disciplina de Pensamento Computacional.
+- Leciono o componente curricular Pensamento Computacional.
 
 
 Linguagens
