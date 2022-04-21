@@ -1,8 +1,9 @@
 - Olá, meu nome é **Rafael Assumpção.**
 - email: **rafael.assumpcao@escola.pr.gov.br**
-- Sou professor do Colégio Estadual Jayme Canet - Bela Vista do Paraíso.
+- Licenciado em Filosofia pela Universidade Estadual de Londrina.
+- Sou professor do Colégio Estadual Jayme Canet, em Bela Vista do Paraíso - PR.
 - Leciono a disciplina de Pensamento Computacional.
-- 1 Ano A & B.
+
 
 Linguagens
 
