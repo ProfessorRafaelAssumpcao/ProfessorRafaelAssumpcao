@@ -1,4 +1,5 @@
 - Olá, meu nome é Rafael Assumpção.
+- rafael.assumpcao@escola.pr.gov.br
 - Sou professor do Colégio Estadual Jayme Canet - Bela Vista do Paraíso.
 - Leciono a disciplina de Pensamento Computacional.
 - 1 Ano A & B.
