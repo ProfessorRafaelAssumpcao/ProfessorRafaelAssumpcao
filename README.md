@@ -4,8 +4,7 @@
 - Sou professor do Colégio Estadual Jayme Canet, em Bela Vista do Paraíso - PR.
 - Leciono o componente curricular Pensamento Computacional.
 
-
-Linguagens
+## Linguagens
 
 ![Scratch]({https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white})
 
