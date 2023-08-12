@@ -32,6 +32,8 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+[Alura](https://www.alura.com.br)
+
 ## Design
 
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
