@@ -36,6 +36,8 @@
 
 [Alura](https://www.alura.com.br)
 
+[Vercel](https://vercel.com).
+
 ## Design
 
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
