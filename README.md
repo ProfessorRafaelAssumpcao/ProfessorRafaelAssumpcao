@@ -24,7 +24,7 @@
 
 ![Tinkercad]
 
-![VS Code].
+![VS Code]
 
 ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 
@@ -49,7 +49,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 
-## Cursos
+## Cursos [Alura]
 
 **Programação - 54hs**
 
@@ -81,6 +81,14 @@ HTML5 e CSS3 parte 2: posicionamento, listas e navegação (de 17/06/2022 a 24/0
 HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas (de 24/06/2022 a 30/11/2022) 8hrs
 
 HTML5 e CSS3 parte 4: avançando no CSS (de 30/11/2022 a 13/12/2022) 8hrs
+
+##[Formadores em ação]
+GRUPO DE ESTUDOS FORMADORES EM ACAO - PROGRAMACAO ENS. MEDIO -	21/02/2022	20/05/2022	40 hrs
+FORMADORES EM ACAO - PROGRAMACAO - ENS. MEDIO - II TRIMESTRE	13/06/2022	09/09/2022	40
+GRUPO DE ESTUDOS FORMADORES EM ACAO - PROGRAMACAO NO ENSINO ME	26/09/2022	16/12/2022	40
+
+##[Robótica Educacional]
+ROBOTICA: TEORIA E PRATICA METODOLOGICA EM SALA DE AULA JORN	07/03/2023	23/06/2023	24
 
 <!---
 professorrafael1/professorrafael1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
