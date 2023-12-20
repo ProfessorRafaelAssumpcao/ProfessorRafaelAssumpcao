@@ -49,9 +49,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 
-## Cursos [Alura]
-
-**Programação - 54hs**
+## Cursos
+**Programação - 54hs**  [Alura]
 
 Lógica de programação: comece em lógica com o jogo Pong e JavaScript (de 07/02/2022 a 03/04/2022) 6hrs
 
@@ -72,7 +71,7 @@ Github: compartilhando seus projetos (de 01/04/2023 a 26/08/2023) 4hrs
 HTML e CSS: praticando HTML/CSS (de 16/12/2023 a 18/12/2023) 8hrs
 
 
-**Front-end - 32hs**
+**Front-end - 32hs**  [Alura]
 
 HTML5 e CSS3 parte 1: crie uma página da Web (de 09/06/2022 a 17/06/2022) 8hrs
 
@@ -82,13 +81,17 @@ HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas (de 24/06/2022 a 30
 
 HTML5 e CSS3 parte 4: avançando no CSS (de 30/11/2022 a 13/12/2022) 8hrs
 
-##[Formadores em ação]
-GRUPO DE ESTUDOS FORMADORES EM ACAO - PROGRAMACAO ENS. MEDIO -	21/02/2022	20/05/2022	40 hrs
-FORMADORES EM ACAO - PROGRAMACAO - ENS. MEDIO - II TRIMESTRE	13/06/2022	09/09/2022	40
-GRUPO DE ESTUDOS FORMADORES EM ACAO - PROGRAMACAO NO ENSINO ME	26/09/2022	16/12/2022	40
+##Formadores em ação
 
-##[Robótica Educacional]
-ROBOTICA: TEORIA E PRATICA METODOLOGICA EM SALA DE AULA JORN	07/03/2023	23/06/2023	24
+GRUPO DE ESTUDOS FORMADORES EM ACAO - PROGRAMACAO ENS. MEDIO -	21/02/2022	20/05/2022	40 hrs
+
+FORMADORES EM ACAO - PROGRAMACAO - ENS. MEDIO - II TRIMESTRE	13/06/2022	09/09/2022	40 hrs
+
+GRUPO DE ESTUDOS FORMADORES EM ACAO - PROGRAMACAO NO ENSINO ME	26/09/2022	16/12/2022	40 hrs
+
+##Robótica Educacional
+
+ROBOTICA: TEORIA E PRATICA METODOLOGICA EM SALA DE AULA JORN	07/03/2023	23/06/2023	24 hrs
 
 <!---
 professorrafael1/professorrafael1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
