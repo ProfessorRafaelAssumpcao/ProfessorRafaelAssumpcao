@@ -48,9 +48,10 @@
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
+
 ## Cursos
 
-###Programação - 54hs
+**Programação - 54hs**
 
 Lógica de programação: comece em lógica com o jogo Pong e JavaScript (de 07/02/2022 a 03/04/2022) 6hrs
 
@@ -70,7 +71,8 @@ Github: compartilhando seus projetos (de 01/04/2023 a 26/08/2023) 4hrs
 
 HTML e CSS: praticando HTML/CSS (de 16/12/2023 a 18/12/2023) 8hrs
 
-###Front-end - 32hs
+
+**Front-end - 32hs**
 
 HTML5 e CSS3 parte 1: crie uma página da Web (de 09/06/2022 a 17/06/2022) 8hrs
 
